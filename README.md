@@ -1,6 +1,6 @@
 # Ping-pong-ReactNative
 [#####-----------------]
-TO start the app use the cmd : npx expo start 
+TO start the app use the cmd : npx expo start  / npm run start
 
  
 
